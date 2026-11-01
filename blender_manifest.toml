@@ -1,0 +1,15 @@
+schema_version = "1.1.0"
+
+id = "viewport_pivot_dot"
+version = "1.1.0"
+name = "Viewport Pivot Dot"
+tagline = "Show a small dot at the point the viewport orbits around"
+maintainer = "Viewport Pivot Dot contributors"
+type = "add-on"
+
+blender_version_min = "4.5.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2026 Viewport Pivot Dot contributors"]
+
+tags = ["3D View", "User Interface"]
